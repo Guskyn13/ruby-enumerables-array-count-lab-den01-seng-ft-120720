@@ -1,4 +1,4 @@
 def count_strings(array)
 array = ["", "hello", "world", 4, 1, 5, [], {}]
-array.count {|string|}
+array.count {|strings|}
 end
