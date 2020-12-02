@@ -8,3 +8,5 @@ def count_empty_strings(array)
 end
 
 count_strings
+
+end
