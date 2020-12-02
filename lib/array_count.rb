@@ -1,7 +1,7 @@
 def count_strings(array)
-array = ["", "hello", "world", 4, 1, 5, [], {}]
+array = ["", 4, "", "goodbye",""]
 array.count do |element|
-  element = ""
+  element != string
 end
 end
 
