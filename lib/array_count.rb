@@ -3,3 +3,4 @@ array = ["", "hello", "world", 4, 1, 5, [], {}]
 array.count do |element|
   element != string
 end
+end
