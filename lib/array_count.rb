@@ -5,5 +5,5 @@ end
 
 def count_empty_strings(array)
 array = ["", 4, "", "goodbye",""]
-arrray.count do {|empty_strings| empty_strings == ""}
+arrray.count {|empty_strings| empty_strings == ""}
 end
